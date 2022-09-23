@@ -1,0 +1,9 @@
+export { default as SVG_PRIORITY } from './svgs/priority.svg';
+export { default as SVG_PRIORITY_GRAY } from './svgs/priority-gray.svg';
+export { default as SVG_LOADING } from './svgs/loading.svg';
+export { default as SVG_1 } from './svgs/1.svg';
+export { default as SVG_2 } from './svgs/2.svg';
+export { default as SVG_3 } from './svgs/3.svg';
+export { default as SVG_4 } from './svgs/4.svg';
+export { default as SVG_5 } from './svgs/5.svg';
+export { default as SVG_6 } from './svgs/Vector.svg';
